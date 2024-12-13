@@ -1,0 +1,2 @@
+# ClickEmpireGame
+Recursionというサイトのフロントエンドプロジェクトです。
