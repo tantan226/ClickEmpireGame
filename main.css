@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+.height{
+    max-height: 40vh;
+    max-width: 80vw;
+}
+.half-height{
+    max-height: 50%;
+}
+.mainHeight {
+    height: 600px;;
+}
+.statsHeight {
+    height: 15%;
+}
+.itemHeight{
+    height: 80%;
+}
+.fullHeight{
+    height: 100%;
+}
+.orange{
+    background-color: #F29F58;
+}
+.maroon{
+    background-color: #AB4459;
+}
+.purple{
+    background-color: #441752;
+}
+.black{
+    background-color: #1B1833;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
